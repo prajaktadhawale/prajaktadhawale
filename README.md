@@ -20,11 +20,6 @@ Welcome to my GitHub profile repository! I'm a passionate **Data Analyst** and *
 
 ---
 
-## 📈 GitHub Stats
-![Prajakta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajaktadhawale&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/prajaktadhawale)
 - [Email](mailto:prajaktadhawale29@gmail.com)
